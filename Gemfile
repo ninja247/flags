@@ -37,6 +37,7 @@ gem 'spree', '~> 3.3'
 gem 'spree_auth_devise', '~> 3.3'
 gem 'spree_gateway', '~> 3.3'
 #gem 'spree_bitpay', '~> 2.0'
+gem 'spree_i18n', github: 'spree-contrib/spree_i18n', branch: 'master'
 
 
 group :development, :test do
