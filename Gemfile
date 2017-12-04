@@ -36,7 +36,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'spree', '~> 3.3'
 gem 'spree_auth_devise', '~> 3.3'
 gem 'spree_gateway', '~> 3.3'
-
+#gem 'spree_bitpay', '~> 2.0'
 
 
 group :development, :test do
